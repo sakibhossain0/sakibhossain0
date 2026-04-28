@@ -3,30 +3,40 @@
 I'm a developer passionate about building useful, clean, and scalable software.
 
 ## 🚀 About Me
-- 🔭 Currently working on: [Your current project]
-- 🌱 Learning: [React / Next.js / Python / AI / Backend / etc.]
-- 💬 Ask me about: [Your strongest skills]
-- ⚡ Fun fact: [Something human and memorable]
+
+- 🔭 Currently working on full-stack web development projects
+- 🌱 Learning Laravel, Node.js, PHP, MySQL, and Tailwind CSS
+- 💬 Ask me about PHP, Laravel, JavaScript, Node.js, MySQL, and Tailwind CSS
+- 🐾 Recently built a Pet Adoption Management System
+- 📫 Reach me at: hossainsakib896@gmail.com
 
 ## 🛠 Tech Stack
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📌 Featured Projects
 
-### 🔹 Project Name
-Short one-line description of what it does.  
-**Tech:** React, Node.js, MongoDB  
-**Live:** [Demo Link]  
-**Code:** [GitHub Repo]
+### 🐾 Pet Adoption Management System
 
-### 🔹 Project Name
-Short one-line description of what it does.  
-**Tech:** Python, Flask, SQLite  
-**Live:** [Demo Link]  
-**Code:** [GitHub Repo]
+A full-stack pet adoption management platform built with PHP, Laravel, Node.js, MySQL, and Tailwind CSS.
+
+**Features:**
+- Pet management
+- Adoption tracking
+- Foster management
+- Health tracking
+- Smart pet-matching quiz
+
+**Tech Used:** PHP, Laravel, Node.js, MySQL, Tailwind CSS
+
+**Repository:** [pet-adoption-management-system](https://github.com/sakibhossain0/pet-adoption-management-system)
 
 ## 📊 GitHub Stats
 
