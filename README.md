@@ -29,9 +29,10 @@ Short one-line description of what it does.
 **Code:** [GitHub Repo]
 
 ## 📊 GitHub Stats
-![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossainsakib896&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossainsakib896&layout=compact&theme=tokyonight)
+![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakibhossain0&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhossain0&layout=compact&theme=tokyonight)
 
 ## 🌐 Connect With Me
 - LinkedIn: [Your LinkedIn]
