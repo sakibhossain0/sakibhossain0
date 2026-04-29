@@ -67,5 +67,8 @@ A university companion Android application built for BRAC University students to
 
 ## 🌐 Connect With Me
 
-- GitHub: [sakibhossain0](https://github.com/sakibhossain0)
-- Email: hossainsakib896@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-sakibhossain0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakibhossain0)
+
+[![Email](https://img.shields.io/badge/Email-hossainsakib896%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossainsakib896@gmail.com)
+
+[![Facebook](https://img.shields.io/badge/Facebook-Sakib%20Hossain-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sakib.hossain.927415?mibextid=ZbWKwL)
