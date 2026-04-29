@@ -61,9 +61,9 @@ A university companion Android application built for BRAC University students to
 
 ## 📊 GitHub Stats
 
-![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakibhossain0&show_icons=true&theme=tokyonight)
+![Sakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakibhossain0&show_icons=true&theme=tokyonight&cache_seconds=21600&v=2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhossain0&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakibhossain0&layout=compact&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&cache_seconds=21600&v=2)
 
 ## 🌐 Connect With Me
 
